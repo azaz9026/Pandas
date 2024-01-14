@@ -21,6 +21,8 @@ plt.show()
 # ----------------------------------------------------------------------------------------------------------------------------------
 
 #Three lines to make our compiler able to draw:
+# import sys by that import sys
+
 import sys
 import matplotlib
 matplotlib.use('Agg')
