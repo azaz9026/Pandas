@@ -16,7 +16,7 @@ The examples in this page uses a CSV file called: 'data.csv'.
 
 import pandas as pd
 
-df = pd.read_csv('data2.csv')
+df = pd.read_csv('data1/.csv')
 
 print(df.corr())
 
