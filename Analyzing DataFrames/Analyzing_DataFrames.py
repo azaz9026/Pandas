@@ -42,7 +42,7 @@ Print the last 5 rows of the DataFrame:
 
 '''
 
-print(df.tail()) 
+print(df.tail(4)) 
 
 
 '''
